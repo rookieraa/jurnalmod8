@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KPL\\jurnalmod08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B482A85-D385-429B-936C-776FBC8A914D}|modul8_1302220024.csproj|d:\\kpl\\jurnalmod08\\bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B482A85-D385-429B-936C-776FBC8A914D}|modul8_1302220024.csproj|solutionrelative:bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B482A85-D385-429B-936C-776FBC8A914D}|jurnalmod08.csproj|d:\\kpl\\jurnalmod08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B482A85-D385-429B-936C-776FBC8A914D}|jurnalmod08.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B482A85-D385-429B-936C-776FBC8A914D}|modul8_1302220024.csproj|d:\\kpl\\jurnalmod08\\uiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B482A85-D385-429B-936C-776FBC8A914D}|modul8_1302220024.csproj|solutionrelative:uiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B482A85-D385-429B-936C-776FBC8A914D}|modul8_1302220024.csproj|d:\\kpl\\jurnalmod08\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B482A85-D385-429B-936C-776FBC8A914D}|modul8_1302220024.csproj|solutionrelative:banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B482A85-D385-429B-936C-776FBC8A914D}|modul8_1302220024.csproj|d:\\kpl\\jurnalmod08\\confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B482A85-D385-429B-936C-776FBC8A914D}|modul8_1302220024.csproj|solutionrelative:confirmation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B482A85-D385-429B-936C-776FBC8A914D}|modul8_1302220024.csproj|d:\\kpl\\jurnalmod08\\transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B482A85-D385-429B-936C-776FBC8A914D}|modul8_1302220024.csproj|solutionrelative:transfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B482A85-D385-429B-936C-776FBC8A914D}|modul8_1302220024.csproj|d:\\kpl\\jurnalmod08\\modul8_1302220024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B482A85-D385-429B-936C-776FBC8A914D}|modul8_1302220024.csproj|solutionrelative:modul8_1302220024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bank_transfer_config.json",
+              "DocumentMoniker": "D:\\KPL\\jurnalmod08\\bank_transfer_config.json",
+              "RelativeDocumentMoniker": "bank_transfer_config.json",
+              "ToolTip": "D:\\KPL\\jurnalmod08\\bank_transfer_config.json",
+              "RelativeToolTip": "bank_transfer_config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T01:03:14.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KPL\\jurnalmod08\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\KPL\\jurnalmod08\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:39:57.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIConfig.cs",
+              "DocumentMoniker": "D:\\KPL\\jurnalmod08\\UIConfig.cs",
+              "RelativeDocumentMoniker": "UIConfig.cs",
+              "ToolTip": "D:\\KPL\\jurnalmod08\\UIConfig.cs",
+              "RelativeToolTip": "UIConfig.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T01:05:20.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankTransferConfig.cs",
+              "DocumentMoniker": "D:\\KPL\\jurnalmod08\\BankTransferConfig.cs",
+              "RelativeDocumentMoniker": "BankTransferConfig.cs",
+              "ToolTip": "D:\\KPL\\jurnalmod08\\BankTransferConfig.cs",
+              "RelativeToolTip": "BankTransferConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:45:01.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Confirmation.cs",
+              "DocumentMoniker": "D:\\KPL\\jurnalmod08\\Confirmation.cs",
+              "RelativeDocumentMoniker": "Confirmation.cs",
+              "ToolTip": "D:\\KPL\\jurnalmod08\\Confirmation.cs",
+              "RelativeToolTip": "Confirmation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:52:39.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transfer.cs",
+              "DocumentMoniker": "D:\\KPL\\jurnalmod08\\Transfer.cs",
+              "RelativeDocumentMoniker": "Transfer.cs",
+              "ToolTip": "D:\\KPL\\jurnalmod08\\Transfer.cs",
+              "RelativeToolTip": "Transfer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T00:55:26.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "modul8_1302220024",
+              "DocumentMoniker": "D:\\KPL\\jurnalmod08\\modul8_1302220024.csproj",
+              "RelativeDocumentMoniker": "modul8_1302220024.csproj",
+              "ToolTip": "D:\\KPL\\jurnalmod08\\modul8_1302220024.csproj",
+              "RelativeToolTip": "modul8_1302220024.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-20T00:52:01.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
